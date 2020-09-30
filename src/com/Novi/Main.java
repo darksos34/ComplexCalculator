@@ -5,15 +5,20 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        // handle exception
-            // only allow numbers
-            // no symbols
-            // no chars
+   /*     # What do you need to create a calculator?
+          # Limit result?
+          # First make it work
+          # if you are stuck build a GUI in JavaFX
 
-        // if else loop
-        // break
-        // structure
-        // unit test
-        
+          # handle exception
+            # only allow numbers
+            # no symbols
+            # no chars
+
+          # if else loop
+          # break
+          # structure
+          # unit test*/
+
     }
 }
